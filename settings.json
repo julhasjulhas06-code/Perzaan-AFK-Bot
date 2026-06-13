@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Verydange-FYHo.aternos.me:30037",
+    "port": 30037,
     "version": "1.21.1"
   },
   "position": {
